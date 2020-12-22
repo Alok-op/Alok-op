@@ -1,4 +1,3 @@
-<img align="center" alt="image" width="70%" height="80%" src="Github-banner.jpg">
 <h1> Hi there, I'm Alok Jha 👋</h1>
 
 ## I'm a Front-End developer
