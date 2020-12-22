@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="image" width="22px" src="linkedin.png">
+<img align="left" alt="image" width="24px" src="linkedin.png">
 <img align="left" alt="image" width="36px" src="gmail.jpg">
 <br/>
 
@@ -20,8 +20,8 @@
 <img align="left" alt="image" width="30px" src="visual studio code.png">
 <img align="left" alt="image" width="30px" src="html5.png">
 <img align="left" alt="image" width="30px" src="css3.png">
-<img align="left" alt="image" width="22px" src="javascript.png">
-<img align="left" alt="image" width="22px" src="bootstrap4.jpg">
-<img align="left" alt="image" width="22px" src="mysql.svg">
-<img align="left" alt="image" width="22px" src="react.png">
-<img align="left" alt="image" width="22px" src="node.png">
+<img align="left" alt="image" width="30px" src="javascript.png">
+<img align="left" alt="image" width="30px" src="bootstrap4.jpg">
+<img align="left" alt="image" width="30px" src="mysql.svg">
+<img align="left" alt="image" width="30px" src="react.png">
+<img align="left" alt="image" width="30px" src="node.png">
