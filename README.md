@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="image" width="24px" src="linkedin.png">
+<a href="https://www.linkedin.com/in/alok-jha-7ba89a187/"><img align="left" alt="image" width="24px" src="linkedin.png"></a>
 <img align="left" alt="image" width="36px" src="gmail.jpg">
 <br/>
 
