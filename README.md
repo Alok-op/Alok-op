@@ -10,4 +10,4 @@
 
 ### Connect with me:
 
-[<img align="left" alt="image" width="22px" src="images/linkedin.png">]
+[<img align="left" alt="image" width="22px" src="linkedin.png">]
