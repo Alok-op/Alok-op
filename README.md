@@ -1,4 +1,4 @@
-<img align="center" alt="image" width="70%" src="Github-banner.jpg">
+<img align="right" alt="image" width="70%" src="Github-banner.jpg">
 ### Hi there, I'm Alok 👋
 
 ## I'm a Front-End developer
