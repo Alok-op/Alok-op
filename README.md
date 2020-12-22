@@ -1,5 +1,5 @@
-<img align="right" alt="image" width="70%" src="Github-banner.jpg">
-### Hi there, I'm Alok 👋
+<img align="center" alt="image" width="70%" src="Github-banner.jpg">
+<h1> Hi there, I'm Alok 👋</h1>
 
 ## I'm a Front-End developer
 - 🔭 I’m currently working on something cool 😄
