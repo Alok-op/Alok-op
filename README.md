@@ -9,6 +9,7 @@
 - ⚡ Fun fact:I love to Travelling and Watching Cricket
 
 ### Connect with me:
+
 <img align="left" alt="image" width="22px" src="linkedin.png">
 <img align="left" alt="image" width="36px" src="gmail.jpg">
 
