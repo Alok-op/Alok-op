@@ -17,7 +17,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="image" width="30px" src="visual studio code.png">
-<img align="left" alt="image" width="30px" src="html5.png">
+<a href="https://www.google.com/"><img align="left" alt="image" width="30px" src="visual studio code.png"></a>
 <img align="left" alt="image" width="30px" src="css3.png">
 <img align="left" alt="image" width="30px" src="javascript.png">
 <img align="left" alt="image" width="30px" src="bootstrap4.jpg">
