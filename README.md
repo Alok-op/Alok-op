@@ -1,7 +1,7 @@
 ### Hi there, I'm Alok 👋
 
 ## I'm a Front-End developer
--- 🔭 I’m currently working on something cool 😄
+- 🔭 I’m currently working on something cool 😄
 - 🌱 I’m currently learning React.js, Node.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for opportunity in Front-End Development
