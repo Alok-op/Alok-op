@@ -17,9 +17,9 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="image" width="22px" src="visual studio code.png.png">
-<img align="left" alt="image" width="22px" src="html5.png">
-<img align="left" alt="image" width="22px" src="css3.png">
+<img align="left" alt="image" width="30px" src="visual studio code.png">
+<img align="left" alt="image" width="30px" src="html5.png">
+<img align="left" alt="image" width="30px" src="css3.png">
 <img align="left" alt="image" width="22px" src="javascript.png">
 <img align="left" alt="image" width="22px" src="bootstrap4.jpg">
 <img align="left" alt="image" width="22px" src="mysql.svg">
