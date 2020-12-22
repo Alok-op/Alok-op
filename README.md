@@ -9,5 +9,5 @@
 - ⚡ Fun fact:I love to Travelling and Watching Cricket
 
 ### Connect with me:
-
 <img align="left" alt="image" width="22px" src="linkedin.png">
+<a href="linkedin.com/in/alok-jha-7ba89a187"><img align="left" alt="image" width="22px" src="linkedin.png"></a>
