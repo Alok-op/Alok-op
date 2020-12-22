@@ -10,5 +10,5 @@
 
 ### Connect with me:
 <img align="left" alt="image" width="22px" src="linkedin.png">
-<img align="left" alt="image" width="22px" src="gmail.jpg">
+<img align="left" alt="image" width="36px" src="gmail.jpg">
 
