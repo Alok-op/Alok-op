@@ -1,3 +1,4 @@
+<img align="center" alt="image" width="500px" src="github.png">
 ### Hi there, I'm Alok 👋
 
 ## I'm a Front-End developer
