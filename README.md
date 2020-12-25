@@ -1,5 +1,5 @@
 <h1> Hi there, I'm Alok Jha 👋</h1>
-
+<img align="left" alt="image" width="70%" src="github1.png">
 ## I'm a Front-End developer
 
 - 🔭 I’m currently working on something cool 😄
