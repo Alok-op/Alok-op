@@ -1,5 +1,5 @@
 <h1> Hi there, I'm Alok Jha 👋</h1>
-## I'm a Front-End developer
+## I'm a UI developer
 
 - 🔭 I’m currently working on something cool 😄
 - 🌱 I’m currently learning React.js, Node.js
