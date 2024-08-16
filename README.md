@@ -23,4 +23,3 @@
 <img align="left" alt="image" width="30px" src="mysql.svg">
 <img align="left" alt="image" width="30px" src="react.png">
 <img align="left" alt="image" width="30px" src="node.png">
-<img align="left" alt="image" width="30px" src="angular.png">
