@@ -1,6 +1,6 @@
 ![github-header-image (2)](https://github.com/user-attachments/assets/d172dac9-faeb-46e9-9ec5-998ae1e4e85e)
 <h1 align="center">Hi 👋, I'm Alok Jha</h1>
-<h3 align="center">A frontend developer passionate about creating Interactive applications and experiences on the web.</h3>
+<h3>A frontend developer passionate about creating Interactive applications and experiences on the web.</h3>
 
 - 🔭 I’m currently working on **Front end development**
 
