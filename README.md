@@ -1,4 +1,4 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/9e806d63-eec5-4e61-a392-5fc88c51bc58)
+![github-header-image (2)](https://github.com/user-attachments/assets/d172dac9-faeb-46e9-9ec5-998ae1e4e85e)
 <h1 align="center">Hi 👋, I'm Alok Jha</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
