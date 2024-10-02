@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alok Jha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **Book store webapp**
+- 🔭 I’m currently working on **Front end development**
 
 - 💬 Ask me about **React, Angular, Typescript, javaScript, HTML, CSS**
 
-- 📫 How to reach me **alokjha0209@gmai.com**
+- 📫 Reach me at **alokjha0209@gmai.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
