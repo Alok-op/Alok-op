@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React, Angular, Typescript, javaScript, HTML, CSS**
 
-- 📫 Reach me at **alokjha0209@gmai.com**
+- 📫 Reach me at **alokjha0209@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
