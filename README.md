@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alok Jha</h1>
-<h3 align="center">Full-stack developer passionate about building interactive, scalable, and user-focused web applications with seamless frontend and backend integration.</h3>
+<h3 align="center">Full-stack developer passionate about building scalable and user-friendly web applications.</h3>
 
 - 🔭 I’m currently working on **Full Stack development with React and Spring Boot**
 
